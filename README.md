@@ -1,6 +1,6 @@
 # optimal-project
 
-optimal-project contains a project related to the Optimal Estimation (MECH 7710) course at Auburn University.
+***optimal-project*** contains a project related to the Optimal Estimation (MECH 7710) course at Auburn University.
 
 ## License
 
